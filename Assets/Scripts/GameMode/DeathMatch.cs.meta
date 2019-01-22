@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 87e6fef5ca8cf9643830c849d409fae8
+timeCreated: 1489866938
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_canvas: {instanceID: 0}
+  - scoreUI: {fileID: 1633352128818434, guid: 4d7fcfaae1b6e5a469905cde109c1f27, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
